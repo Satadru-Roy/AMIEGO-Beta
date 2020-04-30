@@ -1,4 +1,4 @@
-# AMIEGO-Beta: 
+# AMIEGO-Beta version
 A Mixed Integer Efficient Global Optimization (AMIEGO) is a mixed-discrete nonlinear programming solver for computationally expensive large-scale problems. 
 
 To run AMIEGO please follow the steps below:
