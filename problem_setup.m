@@ -49,7 +49,7 @@
 
 % Selection of AMIEGO parameters
 contopt_solver_fmincon = 1;    % 1- fmincon, 0-User defined (Need to define the ContininuousOptimization_userdef.m file)
-infill_strategy        = 1;    % 1- EI, 2-CP
+infill_strategy        = 2;    % 1- EI, 2-CP
 num_infill_per_iter    = 1;
 
 FileNam = 'TestProb_Branin';
